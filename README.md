@@ -1,0 +1,1 @@
+This project is to pull past comps of a specific card
